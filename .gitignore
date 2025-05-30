@@ -1,0 +1,17 @@
+*.class
+backend/target/classes/com/example/finsplore/FinsploreApplication.class
+backend/target/classes/com/example/finsplore/repository/UserRepository.class
+backend/target/classes/com/example/finsplore/service/BasiqService.class
+backend/target/classes/com/example/finsplore/service/UserService.class
+backend/target/classes/com/example/finsplore/controller/UserController.class
+backend/target/classes/com/example/finsplore/controller/UserController.class
+backend/target/classes/com/example/finsplore/controller/UserController.class
+backend/target/classes/com/example/finsplore/entity/User.class
+*.class
+backend/target/classes/com/example/finsplore/entity/User.class
+backend/target/classes/com/example/finsplore/FinsploreApplication.class
+backend/target/classes/com/example/finsplore/repository/UserRepository.class
+backend/target/classes/com/example/finsplore/entity/User.class
+backend/target/classes/com/example/finsplore/FinsploreApplication.class
+backend/target/classes/com/example/finsplore/repository/UserRepository.class
+backend/target/classes/com/example/finsplore/FinsploreApplication.class
